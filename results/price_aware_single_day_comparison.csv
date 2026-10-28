@@ -1,0 +1,3 @@
+PriceDate,Strategy,PriceAwareEnable,PeakGrid_kW,GridImport_kWh,GridExport_kWh,NetGridEnergy_kWh,GridExceedance_kWh,RawEnergyCost_RMB,BatteryThroughput_kWh,MinimumSOC_pct,MaximumSOC_pct,FinalSOC_pct,MaximumBatteryPower_kW,MaximumPowerBalanceError_kW,SOCIntegrationError_pct,MeetsGridLimit,SOCWithinLimits,BatteryPowerWithinRating
+2026-04-01,Fixed 00:00-06:00 precharge,0,100,1200.27959452961,68.8946562910024,1131.38493823861,0,564.080661387547,253.40761588456,50,90,55.8669593969913,64,0,2.22044604925031e-14,1,1,1
+2026-04-01,Price-aware precharge,1,100,1144.62169979277,13.2367615541603,1131.38493823861,0,491.869411935792,253.40761588456,50,90,55.8669593969913,70,0,2.22044604925031e-14,1,1,1

@@ -1,0 +1,2 @@
+Rows,Days,IntervalsPerDay,OriginalMissingEconomicPrices,ImputedEconomicPrices,MinimumPrice_RMB_MWh,P25Price_RMB_MWh,MedianPrice_RMB_MWh,P75Price_RMB_MWh,MaximumPrice_RMB_MWh,NegativePriceIntervals
+8736,91,96,96,96,-79,153,398.405,472.5,682.5,1340

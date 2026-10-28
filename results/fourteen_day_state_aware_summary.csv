@@ -1,0 +1,3 @@
+StrategyName,CompliantDays,ViolatingDays,TotalGridExceedance_kWh,MaximumGridPower_kW,OverallMinimumSOC_pct,Week1FinalSOC_pct,Week2FinalSOC_pct,MaximumHandoverError_pct,MaximumBalanceError_kW
+Forecast-based precharge,10,4,133.2365072002,138.864285714286,20,20,20,0,0
+No precharge,2,12,1604.83889960743,161,20,20,20,0,0

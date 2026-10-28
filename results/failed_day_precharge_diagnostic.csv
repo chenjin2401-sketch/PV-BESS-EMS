@@ -1,0 +1,3 @@
+CaseName,PrechargeEnable,PeakGrid_kW,GridExceedance_kWh,MinimumSOC_pct,MaximumSOC_pct,FinalSOC_pct,MaximumBatteryPower_kW,MaximumPowerBalanceError_kW,MeetsGridLimit,SOCWithinLimits,BatteryPowerWithinRating
+Original schedule,0,123.352767857143,18.5459597550116,20,48.3912573971227,20,40,0,0,1,1
+Forced precharge,1,100,0,33.3324563746368,90,55.8669593969913,65,0,1,1,1
